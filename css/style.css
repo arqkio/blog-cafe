@@ -64,3 +64,17 @@ h4{
     color: var(--blanco);
     margin-top:5rem;
 }
+
+@media (min-wid: 768px){
+    .barra{
+         display: flex;
+         align-items: center;
+         justify-content: space-between; 
+    }
+   
+    .logo{
+        color: var();
+    } 
+
+
+}
